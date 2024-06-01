@@ -108,12 +108,12 @@ export function ProductScroll() {
         ></video>
         <p>
           <span className="font-semibold">Experience the Thrill of Flight</span>{" "}
-          The MagicalFlying Spinner is not your ordinary toy. It's a
+          The MagicalFlying Spinner is not your ordinary toy. It&apos;s a
           gravity-defying, spinning marvel that lets you soar through the skies
           with ease. Powered by advanced gyroscopic technology, this spinner
           effortlessly hovers in mid-air, allowing you to control its flight
-          with precision. It's a captivating spectacle that brings out the pilot
-          in everyone.
+          with precision. It&apos;s a captivating spectacle that brings out the
+          pilot in everyone.
         </p>
         <video
           src="2.mp4"
@@ -124,15 +124,15 @@ export function ProductScroll() {
         ></video>
         <p>
           <span className="font-semibold">Experience the Thrill of Flight</span>{" "}
-          The MagicalFlying Spinner is not your ordinary toy. It's a
+          The MagicalFlying Spinner is not your ordinary toy. It&apos;s a
           gravity-defying, spinning marvel that lets you soar through the skies
           with ease. Powered by advanced gyroscopic technology, this spinner
           effortlessly hovers in mid-air, allowing you to control its flight
-          with precision. It's a captivating spectacle that brings out the pilot
-          in everyone.
+          with precision. It&apos;s a captivating spectacle that brings out the
+          pilot in everyone.
         </p>
         <span className="text-red-400 font-bold py-4 text-lg">
-          🎁It's a perfect gift for your family!
+          🎁It&apos;s a perfect gift for your family!
         </span>
         <Faq />
       </div>
